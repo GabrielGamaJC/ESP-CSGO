@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIxnyOhtaPUnAJxEc+0KhTeTjlKDFVA+DuVTU6gA5SyAuvJNh40AW3XADgDJFlL/mH9/8vSlwZlfGqLUNNEhxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\ESPCSGOG\\ESPCSGOG\\ESPCSGOG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\swed32\\1.1.0\\swed32.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
